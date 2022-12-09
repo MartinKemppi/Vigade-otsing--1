@@ -1,0 +1,23 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.2.32519.379
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{888888A0-9F3D-457C-B088-3A5042F75D52}") = "Vigade otsing -1", "Vigade otsing -1.pyproj", "{D32A7479-1EF8-495E-835C-4A72DF29F11B}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{D32A7479-1EF8-495E-835C-4A72DF29F11B}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{D32A7479-1EF8-495E-835C-4A72DF29F11B}.Release|Any CPU.ActiveCfg = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {A61B2AD0-3840-45E6-83B3-8ADCE76F030A}
+	EndGlobalSection
+EndGlobal
